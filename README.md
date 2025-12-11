@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Deepyaman!<br><br> 🔭 I'm currently looking for SDE-1 Roles<br>  💬 Ask me about Software Development related stuff<br>  📫 How to reach me: Twitter, LinkedIn<br>   😄 Pronouns: He/His<br>   ⚡Fun fact: My favorite sound is npm install finishing without errors.
+Hi there 👋<br><br>Nice meeting you, I'm Deepyaman!<br><br> 🔭 I'm currently looking for SDE-1 Roles<br>  💬 Ask me about Software Development related stuff<br>  📫 How to reach me: Twitter, LinkedIn<br>   😄 Pronouns: He/His<br>   ⚡ Fun fact: My favorite sound is npm install finishing without errors.
 
 
 ## 🌐 Socials:
