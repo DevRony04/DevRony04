@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>Nice meeting you, I'm Deepyaman!<br><br> 🔭 I'm currently looking for SWE-1 roles<br>  💬 Ask me about backend & full-stack software development related stuff <br>  📫 How to reach me: Twitter, LinkedIn<br>   😄 Pronouns: He/His<br>   ⚡ Fun fact: My favorite sound is <code>npm install</code> finishing without errors
+Hi there 👋<br><br>Nice meeting you, I'm Deepyaman!<br><br> 🔭 I'm currently looking for SWE-1 roles<br>  💬 Ask me about backend & full-stack software development related stuff <br>  📫 How to reach me: Instagram, LinkedIn, Twitter<br>   😄 Pronouns: He/His<br>   ⚡ Fun fact: My favorite sound is <code>npm install</code> finishing without errors
 
 
 ## 🌐 Socials:
